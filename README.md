@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Mohammad Hisham — Senior Software Engineer. I automate everything I can." width="100%" />
+  <img src="assets/banner.svg" alt="Mohammad Hisham — Senior Software Engineer. I build systems that run themselves." width="100%" />
 </p>
 
-I'm a software engineer who **loves automation**. If I have to do something twice, I would rather build the thing that does it for me. I ship mobile apps, backend services and cloud infrastructure, mostly **Flutter** on the front and **Laravel, Node.js or Python** behind it, and many of my apps are Arabic-first.
+I'm a software engineer who **loves automation**. I design and build the pipelines, agents and tooling that take repetitive work off people's hands, so the time goes into the product. I ship mobile apps, backend services and cloud infrastructure, mostly **Flutter** on the front and **Laravel, Node.js or Python** behind it, and many of my apps are Arabic-first.
 
 <p>
   <a href="https://www.linkedin.com/in/mhk26"><img src="https://img.shields.io/badge/LinkedIn-mhk26-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -10,12 +10,12 @@ I'm a software engineer who **loves automation**. If I have to do something twic
   <a href="https://play.google.com/store/apps/dev?id=5275220746947173585"><img src="https://img.shields.io/badge/Google_Play-my_apps-16A34A?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 </p>
 
-## ⚙️ If it can run itself, it should
+## ⚙️ Automation I've built
 
-- 🤖 **A newsroom with no newsroom.** [Mokhbir](https://mokhbirtech.com) is an AI agent that reads YouTube, RSS, Hacker News and Reddit, writes each story in Arabic, sends me the draft on Telegram, and publishes it. My only job is to say no.
-- 🚀 **Releases in one command.** One Fastlane lane builds an app and ships it to the App Store and Google Play from the same build number. Store listings, screenshots and staged rollouts are scripted too.
-- ✅ **Tests on every push.** GitHub Actions analyse, test and build the Flutter apps and their Laravel backends, so a broken change is caught before I notice it.
-- 🧩 **One command, not ten.** [zampp](https://github.com/MHK-26/zampp) sets up Apache, PHP, MariaDB and mail catching on a Mac with generated passwords and nothing to configure.
+- 🤖 **An AI newsroom.** I built [Mokhbir](https://mokhbirtech.com), an agent that reads YouTube, RSS, Hacker News and Reddit, writes each story in Arabic and publishes it. I designed a Telegram approval step into it, so a human checks every draft before it goes out.
+- 🚀 **One-command releases.** I wrote Fastlane lanes that build an app and ship it to the App Store and Google Play from the same build number, including store listings, screenshots and staged rollouts.
+- ✅ **Tests on every push.** I set up GitHub Actions pipelines that analyse, test and build the Flutter apps and their Laravel backends, so a broken change is caught before it reaches users.
+- 🧩 **A dev stack in one command.** I built [zampp](https://github.com/MHK-26/zampp), which sets up Apache, PHP, MariaDB and mail catching on a Mac, secure by default, with generated passwords.
 
 ## 📱 Apps on the stores
 
