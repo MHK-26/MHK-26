@@ -16,81 +16,71 @@ I'm a software engineer who **loves automation**. I design and build the pipelin
   <tr>
     <td width="76"><img src="assets/icons/tashkeela.png" width="60" alt="Tashkeela icon" /></td>
     <td>
-      <b>Tashkeela · تشكيلة</b> — guess the football team from its lineup. Six game modes, daily challenges and global leaderboards, in Arabic and English.<br />
-      <a href="https://apps.apple.com/us/app/tashkeela-football-quiz/id6765641224">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.z249apps.tashkeela">Google Play</a> · <a href="https://tashkeela.249apps.com">Website</a><br />
-      <sub>Flutter · Laravel · MySQL · Firebase</sub>
+      <b>Tashkeela · تشكيلة</b> — guess the football team from its lineup.<br />
+      <a href="https://apps.apple.com/us/app/tashkeela-football-quiz/id6765641224">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.z249apps.tashkeela">Google Play</a> · <a href="https://tashkeela.249apps.com">Website</a>
     </td>
   </tr>
   <tr>
     <td><img src="assets/icons/studiaro.png" width="60" alt="Studiaro icon" /></td>
     <td>
-      <b>Studiaro</b> — practice tests and mock exams for AWS, Azure, Google Cloud, Cisco, CompTIA, PMP and more, with an explanation for every answer.<br />
-      <a href="https://apps.apple.com/us/app/studiaro-certification-prep/id6801530577">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.z249apps.studiaro">Google Play</a> · <a href="https://249apps.com/studiaro/">Website</a><br />
-      <sub>Flutter · Laravel · Filament · RevenueCat · OpenAI</sub>
+      <b>Studiaro</b> — practice tests and mock exams for IT certifications.<br />
+      <a href="https://apps.apple.com/us/app/studiaro-certification-prep/id6801530577">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.z249apps.studiaro">Google Play</a> · <a href="https://249apps.com/studiaro/">Website</a>
     </td>
   </tr>
   <tr>
     <td><img src="assets/icons/talas.png" width="60" alt="Talas icon" /></td>
     <td>
-      <b>Talas · طلس</b> — a real-time Arabic bluffing party game. Write a convincing fake answer, then vote to find the real one. One room across iOS, Android and the web.<br />
-      <a href="https://apps.apple.com/us/app/%D8%B7%D9%84%D8%B3/id6799531653">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.z249apps.talas">Google Play</a> · <a href="https://talas.249apps.com/site/">Website</a><br />
-      <sub>Flutter · Node.js · WebSockets · Laravel · Firebase</sub>
+      <b>Talas · طلس</b> — an Arabic bluffing party game to play with friends.<br />
+      <a href="https://apps.apple.com/us/app/%D8%B7%D9%84%D8%B3/id6799531653">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.z249apps.talas">Google Play</a> · <a href="https://talas.249apps.com/site/">Website</a>
     </td>
   </tr>
   <tr>
     <td><img src="assets/icons/rooh.png" width="60" alt="Rooh icon" /></td>
     <td>
-      <b>Rooh · روح</b> — an offline-first Quran memorisation companion with spaced review, a tajweed-coloured mushaf, tafsir and recitations.<br />
-      <a href="https://apps.apple.com/us/app/id6801590728">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.z249apps.rooh">Google Play</a><br />
-      <sub>Flutter · offline datasets · streamed audio</sub>
+      <b>Rooh · روح</b> — a Quran memorisation and review companion.<br />
+      <a href="https://apps.apple.com/us/app/id6801590728">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.z249apps.rooh">Google Play</a>
     </td>
   </tr>
   <tr>
     <td><img src="assets/icons/taskflow.png" width="60" alt="TaskFlow icon" /></td>
     <td>
-      <b>TaskFlow</b> — checklists, Markdown notes, kanban boards, tables and timelines in one app, synced across phone, tablet and web.<br />
-      <a href="https://apps.apple.com/us/app/taskflow-to-do-list-planner/id6807586084">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.z249apps.taskflow">Google Play</a><br />
-      <sub>Flutter · Firestore · RevenueCat</sub>
+      <b>TaskFlow</b> — notes, tasks and boards in one app.<br />
+      <a href="https://apps.apple.com/us/app/taskflow-to-do-list-planner/id6807586084">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.z249apps.taskflow">Google Play</a>
     </td>
   </tr>
   <tr>
     <td><img src="assets/icons/spndsy.png" width="60" alt="Spndsy AI icon" /></td>
     <td>
-      <b>Spndsy AI</b> — income, expenses and category budgets with AI insights into your spending, plus PDF, Excel and CSV export.<br />
-      <a href="https://apps.apple.com/us/app/spndsy-ai/id6753125235">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.mhk26.spndsyAI">Google Play</a><br />
-      <sub>Flutter · Firebase · OpenAI</sub>
+      <b>Spndsy AI</b> — budgets, spending and AI insights.<br />
+      <a href="https://apps.apple.com/us/app/spndsy-ai/id6753125235">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.mhk26.spndsyAI">Google Play</a>
     </td>
   </tr>
   <tr>
     <td><img src="assets/icons/chatmbti.png" width="60" alt="ChatMBTI icon" /></td>
     <td>
-      <b>ChatMBTI</b> — chat with AI personas of all 16 personality types, with a built-in personality quiz and Arabic replies.<br />
-      <a href="https://apps.apple.com/us/app/chatmbti/id6757331968">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.mhk26.chatmbti">Google Play</a><br />
-      <sub>Flutter · OpenAI · RevenueCat</sub>
+      <b>ChatMBTI</b> — chat with AI personas of all 16 personality types.<br />
+      <a href="https://apps.apple.com/us/app/chatmbti/id6757331968">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.mhk26.chatmbti">Google Play</a>
     </td>
   </tr>
   <tr>
     <td><img src="assets/icons/jahbaz.png" width="60" alt="Jahbaz icon" /></td>
     <td>
-      <b>Jahbaz · الجهبذ</b> — four Arabic word and trivia games in one: letter scramble, multiple choice, word search and connections.<br />
-      <a href="https://play.google.com/store/apps/details?id=com.z249apps.jahbaz">Google Play</a> · <a href="https://249apps.com/jahbaz/">Website</a><br />
-      <sub>Flutter · Firebase · AdMob</sub>
+      <b>Jahbaz · الجهبذ</b> — four Arabic word and trivia games in one.<br />
+      <a href="https://play.google.com/store/apps/details?id=com.z249apps.jahbaz">Google Play</a> · <a href="https://249apps.com/jahbaz/">Website</a>
     </td>
   </tr>
   <tr>
     <td><img src="assets/icons/silo26.png" width="60" alt="Silo 26 icon" /></td>
     <td>
-      <b>Silo 26</b> — native Swift apps that turn your iPhone into a trackpad and remote for your Mac, over Wi-Fi or an end-to-end encrypted relay.<br />
-      <a href="https://control.249apps.com">Website</a><br />
-      <sub>Swift · SwiftUI · ScreenCaptureKit · CryptoKit</sub>
+      <b>Silo 26</b> — your iPhone becomes a trackpad and remote for your Mac.<br />
+      <a href="https://control.249apps.com">Website</a>
     </td>
   </tr>
   <tr>
     <td><img src="assets/icons/sidekick.png" width="60" alt="Sidekick icon" /></td>
     <td>
-      <b>Sidekick</b> <sub>coming soon</sub> — a weekly workout plan built from five questions, 3D exercise demos with a voice coach, and meal and macro tracking.<br />
-      <a href="https://249apps.com/sidekick/">Website</a><br />
-      <sub>Flutter · PHP · Firebase · RevenueCat · HealthKit</sub>
+      <b>Sidekick</b> <sub>coming soon</sub> — a workout plan, exercise demos and a calorie counter.<br />
+      <a href="https://249apps.com/sidekick/">Website</a>
     </td>
   </tr>
 </table>
@@ -101,17 +91,15 @@ I'm a software engineer who **loves automation**. I design and build the pipelin
   <tr>
     <td width="76"><img src="assets/icons/mokhbir.png" width="60" alt="Mokhbir icon" /></td>
     <td>
-      <b>Mokhbir · المخبر المعلوماتي</b> — an AI newsroom for tech news in plain Arabic. An agent reads YouTube, RSS, Hacker News and Reddit, drafts each story, and sends it to Telegram for a human to approve before it is published.<br />
-      <a href="https://mokhbirtech.com">mokhbirtech.com</a> · <a href="https://www.facebook.com/mokhbirtech">Facebook</a><br />
-      <sub>Python · Gemini · Telegram Bot · Remotion</sub>
+      <b>Mokhbir · المخبر المعلوماتي</b> — tech and AI news in plain Arabic.<br />
+      <a href="https://mokhbirtech.com">mokhbirtech.com</a> · <a href="https://www.facebook.com/mokhbirtech">Facebook</a>
     </td>
   </tr>
   <tr>
     <td><img src="assets/icons/zampp.svg" width="60" alt="zampp icon" /></td>
     <td>
-      <b>zampp</b> — an open-source, secure-by-default XAMPP for macOS: Apache, PHP-FPM, MariaDB, Mailpit and Adminer with a web control panel and CLI.<br />
-      <a href="https://github.com/MHK-26/zampp">github.com/MHK-26/zampp</a><br />
-      <sub>TypeScript · Node · Vite</sub>
+      <b>zampp</b> — an open-source, secure-by-default XAMPP for macOS.<br />
+      <a href="https://github.com/MHK-26/zampp">github.com/MHK-26/zampp</a>
     </td>
   </tr>
 </table>
