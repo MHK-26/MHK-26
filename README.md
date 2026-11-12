@@ -1,14 +1,21 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Mohammad Hisham — Senior Software Engineer, founder of 249apps" width="100%" />
+  <img src="assets/banner.svg" alt="Mohammad Hisham — Senior Software Engineer. I automate everything I can." width="100%" />
 </p>
 
-I'm a software engineer who ships mobile apps, backend services and cloud infrastructure. Most of my work is **Flutter** on the front and **Laravel, Node.js or Python** behind it. I run **249apps**, a small studio where I design, build and publish my own apps, many of them Arabic-first.
+I'm a software engineer who **loves automation**. If I have to do something twice, I would rather build the thing that does it for me. I ship mobile apps, backend services and cloud infrastructure, mostly **Flutter** on the front and **Laravel, Node.js or Python** behind it, and many of my apps are Arabic-first.
 
 <p>
   <a href="https://www.linkedin.com/in/mhk26"><img src="https://img.shields.io/badge/LinkedIn-mhk26-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://apps.apple.com/us/developer/mohammad-hisham/id1835033943"><img src="https://img.shields.io/badge/App_Store-my_apps-0B1F45?style=for-the-badge&logo=apple&logoColor=white" alt="App Store" /></a>
   <a href="https://play.google.com/store/apps/dev?id=5275220746947173585"><img src="https://img.shields.io/badge/Google_Play-my_apps-16A34A?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play" /></a>
 </p>
+
+## ⚙️ If it can run itself, it should
+
+- 🤖 **A newsroom with no newsroom.** [Mokhbir](https://mokhbirtech.com) is an AI agent that reads YouTube, RSS, Hacker News and Reddit, writes each story in Arabic, sends me the draft on Telegram, and publishes it. My only job is to say no.
+- 🚀 **Releases in one command.** One Fastlane lane builds an app and ships it to the App Store and Google Play from the same build number. Store listings, screenshots and staged rollouts are scripted too.
+- ✅ **Tests on every push.** GitHub Actions analyse, test and build the Flutter apps and their Laravel backends, so a broken change is caught before I notice it.
+- 🧩 **One command, not ten.** [zampp](https://github.com/MHK-26/zampp) sets up Apache, PHP, MariaDB and mail catching on a Mac with generated passwords and nothing to configure.
 
 ## 📱 Apps on the stores
 
@@ -124,7 +131,8 @@ I'm a software engineer who ships mobile apps, backend services and cloud infras
 | **Backend** | PHP and Laravel, Node.js, Python, Java and Spring Boot |
 | **Cloud and DevOps** | AWS, Google Cloud, Oracle Cloud, Docker, CI/CD |
 | **Data** | MySQL, PostgreSQL, Firebase and Firestore |
-| **AI** | OpenAI and Gemini APIs, agent pipelines |
+| **Automation** | Fastlane, GitHub Actions, Telegram bots, AI agent pipelines |
+| **AI** | OpenAI and Gemini APIs |
 
 ## 🤝 Get in touch
 

@@ -1,26 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Mohammad Hisham — Senior Software Engineer. Founder of 249apps.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Mohammad Hisham — Senior Software Engineer. I automate everything I can.">
   <defs>
     <clipPath id="card"><rect width="1200" height="380" rx="28"/></clipPath>
   </defs>
-  <g clip-path="url(#card)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <style>
+    .l { animation: 8s linear infinite both; }
+    .l1 { animation-name: a1; } .l2 { animation-name: a2; } .l3 { animation-name: a3; }
+    .l4 { animation-name: a4; } .l5 { animation-name: a5; }
+    .cur { animation: blink 1s steps(2, start) infinite; }
+    @keyframes a1 { 0%, 9%  { opacity: 0 } 11%, 94% { opacity: 1 } 100% { opacity: 0 } }
+    @keyframes a2 { 0%, 24% { opacity: 0 } 26%, 94% { opacity: 1 } 100% { opacity: 0 } }
+    @keyframes a3 { 0%, 39% { opacity: 0 } 41%, 94% { opacity: 1 } 100% { opacity: 0 } }
+    @keyframes a4 { 0%, 54% { opacity: 0 } 56%, 94% { opacity: 1 } 100% { opacity: 0 } }
+    @keyframes a5 { 0%, 69% { opacity: 0 } 71%, 94% { opacity: 1 } 100% { opacity: 0 } }
+    @keyframes blink { to { visibility: hidden } }
+    @media (prefers-reduced-motion: reduce) { .l, .cur { animation: none } }
+  </style>
+
+  <g clip-path="url(#card)">
     <rect width="1200" height="380" fill="#FFF6E5"/>
 
-    <!-- colour blocks, one per shipped app -->
-    <g transform="translate(772 -40) rotate(14)">
-      <rect x="0"   y="-200" width="78" height="800" fill="#16A34A"/>
-      <rect x="78"  y="-200" width="78" height="800" fill="#7C5CFF"/>
-      <rect x="156" y="-200" width="78" height="800" fill="#14B8A6"/>
-      <rect x="234" y="-200" width="78" height="800" fill="#F59E0B"/>
-      <rect x="312" y="-200" width="78" height="800" fill="#2563EB"/>
-      <rect x="390" y="-200" width="78" height="800" fill="#EF4466"/>
-      <rect x="468" y="-200" width="400" height="800" fill="#0B1F45"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <text x="64" y="92" font-size="22" font-weight="700" letter-spacing="3" fill="#C2410C">HI, I'M</text>
+      <text x="60" y="176" font-size="78" font-weight="800" letter-spacing="-2.5" fill="#0B1F45">Mohammad</text>
+      <text x="60" y="254" font-size="78" font-weight="800" letter-spacing="-2.5" fill="#0B1F45">Hisham</text>
+      <rect x="64" y="288" width="64" height="8" rx="4" fill="#F59E0B"/>
+      <text x="64" y="334" font-size="24" font-weight="600" fill="#33405E">Senior Software Engineer · I automate everything I can</text>
     </g>
 
-    <text x="64" y="92" font-size="22" font-weight="700" letter-spacing="3" fill="#C2410C">HI, I'M</text>
-    <text x="60" y="176" font-size="78" font-weight="800" letter-spacing="-2.5" fill="#0B1F45">Mohammad</text>
-    <text x="60" y="254" font-size="78" font-weight="800" letter-spacing="-2.5" fill="#0B1F45">Hisham</text>
-
-    <rect x="64" y="288" width="64" height="8" rx="4" fill="#F59E0B"/>
-    <text x="64" y="334" font-size="24" font-weight="600" fill="#33405E">Senior Software Engineer · Founder of 249apps</text>
+    <!-- a pipeline that runs itself -->
+    <g transform="translate(728 44)">
+      <rect width="412" height="292" rx="20" fill="#0B1F45"/>
+      <circle cx="30" cy="28" r="6" fill="#F59E0B"/>
+      <circle cx="52" cy="28" r="6" fill="#FFF6E5" opacity=".35"/>
+      <circle cx="74" cy="28" r="6" fill="#FFF6E5" opacity=".35"/>
+      <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="23" fill="#FFF6E5">
+        <text x="30" y="84"><tspan fill="#F59E0B">$</tspan> ship --everything<tspan class="cur" fill="#F59E0B"> ▍</tspan></text>
+        <text class="l l1" x="30" y="126"><tspan fill="#4ADE80">✓</tspan> build</text>
+        <text class="l l2" x="30" y="164"><tspan fill="#4ADE80">✓</tspan> test</text>
+        <text class="l l3" x="30" y="202"><tspan fill="#4ADE80">✓</tspan> publish to stores</text>
+        <text class="l l4" x="30" y="240"><tspan fill="#4ADE80">✓</tspan> post the news</text>
+        <text class="l l5" x="30" y="274" fill="#F59E0B">↻ nobody clicked anything</text>
+      </g>
+    </g>
   </g>
 </svg>
