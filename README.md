@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Mohammad Hisham — Senior Software Engineer, founder of 249apps" width="100%" />
 </p>
 
-I'm a software engineer based in the UAE with 7+ years of shipping mobile apps, backend services and cloud infrastructure. Most of my work is **Flutter** on the front and **Laravel, Node.js or Python** behind it. I run **249apps**, a small studio where I design, build and publish my own apps, many of them Arabic-first.
+I'm a software engineer who ships mobile apps, backend services and cloud infrastructure. Most of my work is **Flutter** on the front and **Laravel, Node.js or Python** behind it. I run **249apps**, a small studio where I design, build and publish my own apps, many of them Arabic-first.
 
 <p>
   <a href="https://www.linkedin.com/in/mhk26"><img src="https://img.shields.io/badge/LinkedIn-mhk26-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -128,4 +128,4 @@ I'm a software engineer based in the UAE with 7+ years of shipping mobile apps, 
 
 ## 🤝 Get in touch
 
-Open to senior engineering roles and to build-and-scale projects. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/mhk26).
+The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/mhk26).
